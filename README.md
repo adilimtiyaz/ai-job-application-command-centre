@@ -4,8 +4,8 @@ This project was developed using Bolt AI Builder for the Gappy AI "Ship to Get H
 
 Live Demo
 
-<https://ai-job-application-c-ildz.bolt.host>Project Description
-
+<https://eed24870-b93f-4c0d-8f94-fc6c57bfcb7b-00-1hdopz6dw0owk.pike.replit.dev/> 
+Description
 AI-powered platform that helps students and recent graduates:
 
 - Track job applications.
@@ -16,7 +16,7 @@ AI-powered platform that helps students and recent graduates:
 
 Tech Stack
 
-- Bolt AI Builder
+- Replet AI Builder
 - React
 - TypeScript
 - Tailwind CSS
